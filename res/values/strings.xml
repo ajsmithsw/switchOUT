@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">switchOUT</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_level_selector">LevelSelector</string>
+
+    <string name="redeem_bonuses_text">Share switchOUT on Social Media,\nget 15 bonus hints for sharing\non Twitter and Facebook!</string>
+
+
+    <string name="banner_ad_unit_id_home"></string>
+    <string name="interstitial_ad_unit_id_home"></string>
+    <string name="facebook_app_id"></string>
+
+    <string name="instructions1">Solve the puzzles by switching out all of the lights. touching a light will toggle it (off if it\'s on, on if it\'s off), and will also toggle the lights above, below and either side of it.</string>
+    <string name="instructions2">Aim to solve the puzzles in the least number of moves possible. Use hints to help you find the solutions but remember that if you run out of hints, you\'ll need to buy more.</string>
+
+
+    <string name="base64_first"></string>
+    <string name="base64_second"></string>
+    <string name="base64_third"></string>
+    <string name="base64_fourth"></string>
+    <string name="base64_full"></string>
+</resources>
